@@ -1,0 +1,18 @@
+{
+  "name": "codehub",
+  "version": "1.0.0",
+  "description": "CodeHUB - A coding platform with terminal, AI assistant, and code snippets",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "codemirror": "^5.65.2"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+} 
